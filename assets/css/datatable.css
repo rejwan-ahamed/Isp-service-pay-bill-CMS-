@@ -1,0 +1,26 @@
+
+div#myTable_length {
+    padding: 6px;
+    /* margin-top: auto; */
+    margin: 1rem;
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+div#myTable_filter {
+    padding: 1rem;
+}
+
+input[type="search"] {
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+div#myTable_info {
+    padding: 1rem;
+    margin-top: 0.5rem;
+}
+
+div#myTable_paginate {
+    padding: 1rem;
+}
